@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1392" height="800" stroke-width="1">
+    <path stroke="#000000" stroke-dasharray="30" d="M -254.9 218.8 l 2006.1 -116.8 m 90 348.4 L 350.9 -100.3"/>
+    <path stroke="#000000" stroke-dasharray="30" d="M -914.9 1121.1 l 2226.2 -103 m 99.9 307.3 L -242.7 839.7" transform="matrix(-1,0,0,-1,1336.3,1340.1)"/>
+    <path stroke="#000000" stroke-dasharray="30" d="M -239.9 543.8 l 2006.1 -116.8 m 90 348.4 L 365.9 224.7"/>
+    <path stroke="#000000" stroke-dasharray="30" d="M -914.9 806.1 l 2226.2 -103 m 99.9 307.3 L -242.7 524.7" transform="matrix(-1,0,0,-1,1336.3,1340.1)"/>
+    <circle cx="125" cy="122.5" r="80" fill="black" fill-opacity="0.2" stroke="white" stroke-dasharray="20"/>
+    <circle cx="93.4" cy="266.7" r="70" fill="black" fill-opacity="0.4" stroke="black" stroke-dasharray="20"/>
+    <circle cx="244.1" cy="103.4" r="50" fill="rgb(2, 32, 1)" fill-opacity="0.2" stroke="white" stroke-dasharray="20"/>
+    <circle fill-opacity="0.5" cx="201.7" cy="345.8" r="100" fill="rgb(2, 32, 1)" stroke="white" stroke-dasharray="20"/>
+    <circle cx="320" cy="205" r="25" fill="rgb(2, 34, 1)" fill-opacity="0.3" stroke="white" stroke-dasharray="20"/>
+    <!--<g> <path stroke="#ffffff" fill-opacity="0.5" stroke-dasharray="20" d="M 379.7 115.8 C 382.5 112 376.5 112 376.5 112 S 376.5 126.3 376.5 119.3 S 220.4 332.7 220.4 332.7 S -14.1 186.8 -15.5 172.6 S -90.5 379.1 -155.3 432.3" transform="matrix(0.2,0.9,-0.5,0.4,270.2,-35.1)"/> <path stroke="#ffffff" fill-opacity="0.4" stroke-dasharray="20" d="M 542.7 -84.3 c 545.5 -88.1 539.5 -88.1 539.5 -88.1 S 539.5 -73.8 539.5 -80.8 S 383.4 132.6 383.4 132.6 S 148.9 -13.3 147.5 -27.5 S 72.5 179 7.7 232.2" transform="matrix(0.2,0.9,-0.5,0.4,270.2,-35.1)"/> </g>-->
+    <circle cx="70" cy="480" fill="rgb(2, 34, 1)" r="25" stroke="white" stroke-dasharray="20"/>
+    <circle cx="190" cy="597.5" fill="black" fill-opacity="0.2" r="100" stroke="white" stroke-dasharray="20"/>
+</svg>

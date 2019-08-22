@@ -1,0 +1,32 @@
+$backGrndClr: rgb(24, 21, 21);
+$fontClr: rgba(255, 255, 255, 0.5) !important;
+
+.ss-menubar {
+  height: 50px;
+  background: $backGrndClr;
+  color: white;
+  font-size: 16px;
+
+  .navbar-right {
+    background-color: $backGrndClr;
+
+    a:hover {
+      color: #ffbe12 !important;
+    }
+  }
+
+  #drp-item {
+    color: $fontClr;
+    background-color: $backGrndClr;
+  }
+
+  .dropdown-menu {
+    background-color: $backGrndClr;
+    a {
+      color: $fontClr;
+    }
+    a:hover {
+      background-color: $backGrndClr;
+    }
+  }
+}
